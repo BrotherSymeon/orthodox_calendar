@@ -1,9 +1,9 @@
 <?php
 $core_var=array();
 $core_var['mysql_host']="localhost";
-$core_var['mysql_user']="xxxxxxxx";
-$core_var['mysql_password']="xxxxxxxx";
-$core_var['mysql_database']="xxxxxxxx";
+$core_var['mysql_user']="innocent";
+$core_var['mysql_password']="joshua3334";
+$core_var['mysql_database']="church";
 
 $core_var['timezone']="America/New_York";
 
